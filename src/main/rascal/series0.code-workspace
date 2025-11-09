@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "../../.."
+		},
+		{
+			"path": "../../../../hsqldb-2.3.1/hsqldb-2.3.1"
+		},
+		{
+			"path": "../../../../smallsql0.21_src/smallsql0.21_src"
+		}
+	],
+	"settings": {}
+}
